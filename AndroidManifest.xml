@@ -14,13 +14,13 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name="com.glass.dial.number.DialActivity"
+            android:name="com.glass.dial.phone.DialActivity"
             android:label="@string/app_name"
             android:enabled="true">            
         </activity>
         
         <activity
-            android:name="com.glass.dial.number.MainService"
+            android:name="com.glass.dial.phone.MainService"
             android:enabled="true"
             android:exported="true"
             android:icon="@drawable/ic_launcher"
